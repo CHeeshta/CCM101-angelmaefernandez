@@ -122,3 +122,14 @@ I would recommend AWS because the company needs a cloud platform that can suppor
 The best cloud provider depends on the specific requirements of each client. I recommend GCP for the startup because of its scalable services and GCP for the AI research company because of its AI and machine learning capabilities. Azure is a good choice for the university because it already uses Microsoft technologies, while AWS is suitable for the global e-commerce company because of its global infrastructure and automatic scaling capabilities.
 
 Overall, a cloud engineer should consider the client's existing technology, budget, workload, scalability, and business requirements before choosing a cloud provider.
+
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| **Startup Company** | Google Cloud Platform (GCP) | GCP provides scalable services that allow a startup to begin with smaller resources and increase them as the business grows. |
+| **Enterprise Organization** | Amazon Web Services (AWS) | AWS provides a wide range of services and global infrastructure that can support complex enterprise workloads. |
+| **Microsoft Environment** | Microsoft Azure | Azure integrates well with Microsoft technologies such as Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| **AI / Machine Learning** | Google Cloud Platform (GCP) | GCP provides services such as Vertex AI and scalable computing resources for AI and machine learning workloads. |
+| **Kubernetes Deployment** | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for containerized applications. |
+| **Global Web Application** | Amazon Web Services (AWS) | AWS provides global infrastructure, scalable computing, and load balancing for applications serving users worldwide. |
