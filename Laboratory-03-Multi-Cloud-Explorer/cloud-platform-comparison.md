@@ -118,3 +118,17 @@ The best cloud platform ultimately depends on the organization's technical requi
 
 6. Google Cloud. (n.d.). *Google Cloud Locations*.  
    https://cloud.google.com/about/locations/
+
+   ---
+
+# Checkpoint 5 – Match the Cloud Services
+
+The following table shows equivalent services offered by AWS, Microsoft Azure, and Google Cloud Platform.
+
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
